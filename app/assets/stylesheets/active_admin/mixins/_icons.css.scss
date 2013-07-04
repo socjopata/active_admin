@@ -1,4 +1,4 @@
-body.active_admin {
+body {
   span.icon { vertical-align: middle; display: inline-block; }
   span.icon svg { vertical-align: baseline; }
 }
@@ -19,6 +19,6 @@ body.active_admin {
   @include icon-size($size);
 }
 
-body.active_admin {
+body {
   @include icon-size(0.8em);
 }
