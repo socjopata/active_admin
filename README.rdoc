@@ -4,6 +4,11 @@ Active Admin is a framework for creating administration style interfaces. It
 abstracts common business application patterns to make it simple for developers
 to implement beautiful and elegant interfaces with very little effort.
 
+== My fork includes
+* Active Admin styles are no longer wrapped with .active_admin and therefore they don't take precedence over any third party styling. So CKeditor now looks like CKeditor, etc...
+
+== Badges
+
 {<img src="https://secure.travis-ci.org/gregbell/active_admin.png?branch=master" />}[http://travis-ci.org/gregbell/active_admin]
 {<img src="https://codeclimate.com/github/gregbell/active_admin.png" />}[https://codeclimate.com/github/gregbell/active_admin]
 {<img src="https://gemnasium.com/gregbell/active_admin.png" />}[https://gemnasium.com/gregbell/active_admin]
